@@ -1,2 +1,1 @@
-hellow is the word
-
+this file is create for git practice
